@@ -2,7 +2,7 @@
 visualise word embeddings of the word2vec model using Tensorboard
 
 ## Configuration and run this project on Windows 10
-Download and copy this project to your C: dirive.
+Download and copy this project to your C: dirive. /n
 Install Anaconda and open anaconda promt.
 Nevigate to this project and run following command:
     tensorboard --logdir="tensorboard" --port=8080
