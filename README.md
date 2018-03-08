@@ -9,7 +9,7 @@ Install Anaconda and open anaconda promt.
 
 Nevigate to this project and run following command:
 
-'''tensorboard --logdir="tensorboard" --port=8080'''
+*tensorboard --logdir="tensorboard" --port=8080*
 
 This will show localhost url, Run this url on browser.
 
